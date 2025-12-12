@@ -4,7 +4,7 @@
 <table>
 <tr>
 <td width="230" align="center" valign="middle">
-<img src="https://static.macupdate.com/products/42290/m/paintcode-logo.png?v=1652803240" width="200" alt="PaintCode application icon"><br>
+<img src="https://cdn.jim-nielsen.com/macos/512/paintcode-2013-07-26.png?rf=512" width="200" alt="PaintCode application icon"><br>
 <a href="https://mac-share-apps.github.io/.github/paintcode">
 <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open PaintCode macOS product page">
 </a><br><br>
@@ -16,7 +16,7 @@
 </div>
 </td>
 <td align="center" valign="middle">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0P2s1i6WDg2WyBiP3Qaj_LqK9KBVAcN3IOA&s" width="500" alt="PaintCode main interface on macOS">
+<img src="https://www.zhiniw.com/wp-content/uploads/2022/05/paintcode-mac-preview-02.jpg" width="500" alt="PaintCode main interface on macOS">
 </td>
 </tr>
 </table>
